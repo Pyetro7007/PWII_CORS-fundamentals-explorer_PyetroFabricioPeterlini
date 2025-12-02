@@ -12,7 +12,7 @@ const corsOptions = {
 app.use(cors(corsOptions));
 
 app.get('/api/mensagem', (req, res) => {
-    res.json({ data: "Mensagem secreta da API em 8080!" });
+    res.json({ data: "Mensagem secreta da API em 8080 - COM PERMISSÃO CORS!" });
 });
 
 app.listen(PORT, () => {
