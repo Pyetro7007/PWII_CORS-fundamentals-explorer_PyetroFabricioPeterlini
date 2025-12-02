@@ -36,7 +36,7 @@ Após inicializar o servidor, em outro terminal digite o seguinte comando para i
 
     npx serve -l 3000
 
-Depois de iniciar os dois, clique no link gerado no terminal do `frontend` (http://localhost:3000).
+Depois de iniciar os dois, clique no link gerado no terminal do `frontend` (`http://localhost:3000`).
 Após ser direcionado, clique em **Acessar API**, e a resposta será gerada.
 
 ---
