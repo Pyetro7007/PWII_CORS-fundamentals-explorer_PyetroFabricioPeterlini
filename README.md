@@ -1,15 +1,17 @@
 # Atividade Prática: CORS Fundamentals Explorer
 
 Este repositório contém os arquivos de código-fonte para a **Atividade Prática: Demonstrando o CORS (Recusa e Permissão)**, focada em entender a **Política de Mesma Origem (SOP)** e sua solução através do **Cross-Origin Resource Sharing (CORS)**.
-O objetivo é demonstrar a comunicação bem-sucedida entre dois servidores em origens diferentes. O projeto ilustra como uma requisição de origem cruzada é inicialmente **bloqueada** (Etapa A)e, em seguida, **permitida** (Etapa B) após a configuração adequada do middleware `cors`.
+O objetivo é demonstrar a comunicação bem-sucedida entre dois servidores em origens diferentes. O projeto ilustra como uma requisição de origem cruzada é inicialmente **bloqueada** (Etapa A)e, em seguida, **permitida** (Etapa B) após a configuração adequada do middleware `CORS`.
 
 ---
 
 ## Tecnologias Utilizadas
 
-**Backend:** Node.js com framework **Express**
-**Frontend:** HTML/JavaScript simples
-**Middleware:** **`cors`** (módulo npm para Express)
+- **Backend:** Node.js com framework **Express**
+
+- **Frontend:** HTML/JavaScript simples
+
+- **Middleware:** `CORS` (módulo npm para Express)
 
 ---
 
