@@ -98,5 +98,3 @@ Após ser direcionado, clique em **Acessar API**, e a resposta será gerada.
 ---
 
 Para mais informações, acesse o vídeo: https://youtu.be/jOwFRTtT5vY
-
-Nota: Infelizmente não consegui melhorar a qualidade do vídeo, mas as respostas das reflexões estão no vídeo.
