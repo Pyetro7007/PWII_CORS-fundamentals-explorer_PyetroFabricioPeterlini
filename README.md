@@ -24,6 +24,46 @@ O repositório está organizado em duas pastas separadas:
 
 ---
 
+## Passos antes de iniciar
+
+Após clonar o repositório, será necessário baixar algumas bibliotecas para que o servidores funcionem.
+
+### Na pasta `backend`
+
+No terminal:
+
+    cd beckend
+
+Após entrar, digite no termimal
+
+    npm init -y
+
+Depois digite:
+
+    npm install express cors
+
+Após isso saia da pasta:
+
+    cd ..
+
+### Na pasta `frontend`
+
+No terminal:
+
+    cd frontend
+
+Após entrar, digite no termimal
+
+    npm init -y
+
+Depois digite:
+
+    npm install serve
+
+Após isso saia da pasta:
+
+    cd ..
+
 ## Como Executar o Projeto
 
 Para rodar este projeto, você precisará ter o **Node.js** e o **npm** instalados em sua máquina.
@@ -41,10 +81,6 @@ Para iniciar o servidor:
     node server.js
 
 Após inicializar o servidor, em outro terminal digite o seguinte comando para iniciar o frontend (certifique de que está na pasta `frontend`):
-
-Para sair da pasta backend, se ainda não saiu:
-
-    cd ..
 
 Para entrar na pasta do frontend:
 
