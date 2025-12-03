@@ -64,6 +64,8 @@ Após isso saia da pasta:
 
     cd ..
 
+---
+
 ## Como Executar o Projeto
 
 Para rodar este projeto, você precisará ter o **Node.js** e o **npm** instalados em sua máquina.
