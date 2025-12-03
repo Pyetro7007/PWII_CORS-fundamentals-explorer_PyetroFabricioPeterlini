@@ -32,9 +32,25 @@ O backend deve ser executado usando o Node.js. O código final implementa a perm
 
 Digite o comando no terminal para iniciar o servidor (certifique de que está na pasta `backend`):
 
+Para entrar na pasta:
+
+    cd backend
+
+Para iniciar o servidor:
+
     node server.js
 
-Após inicializar o servidor, em outro terminal digite o seguinte comando para iniciar o html (certifique de que está na pasta `frontend`):
+Após inicializar o servidor, em outro terminal digite o seguinte comando para iniciar o frontend (certifique de que está na pasta `frontend`):
+
+Para sair da pasta backend, se ainda não saiu:
+
+    cd ..
+
+Para entrar na pasta do frontend:
+
+    cd frontend
+
+Para iniciar o frontend:
 
     npx serve -l 3000
 
